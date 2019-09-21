@@ -1,0 +1,21 @@
+{
+    "name": "hicbit",
+    "version": "0.0.1",
+    "description": "Blocks for HicRobot HicBit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "hicbitRGBLight.ts",
+        "sendbuffer.asm",
+        "_locales/zh/hicbit-strings.json",
+        "_locales/zh/hicbit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
